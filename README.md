@@ -8,8 +8,8 @@ Project report for **U25EC304 & Analog Electronics Laboratory**, Department of E
 
 | Name | Register No. |
 |---|---|
-| Mathumitha M | 25EC124 |
-| Irfana Barveen A | 25EC079 |
+| LOKITH G | 25EC115 |
+| MADHAN RAJA| 25EC116 |
 | Malini K | 25EC121 |
 | Haresh S | 25EC066 |
 
